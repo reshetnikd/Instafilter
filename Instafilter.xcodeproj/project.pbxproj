@@ -13,6 +13,7 @@
 		35542142241AA77C0021CE7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35542141241AA77C0021CE7A /* Assets.xcassets */; };
 		35542145241AA77C0021CE7A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35542144241AA77C0021CE7A /* Preview Assets.xcassets */; };
 		35542148241AA77C0021CE7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35542146241AA77C0021CE7A /* LaunchScreen.storyboard */; };
+		35542156241ABBFB0021CE7A /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35542155241ABBFB0021CE7A /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		35542144241AA77C0021CE7A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		35542147241AA77C0021CE7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35542149241AA77C0021CE7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35542155241ABBFB0021CE7A /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3554213B241AA77B0021CE7A /* AppDelegate.swift */,
 				3554213D241AA77B0021CE7A /* SceneDelegate.swift */,
 				3554213F241AA77B0021CE7A /* ContentView.swift */,
+				35542155241ABBFB0021CE7A /* ImagePicker.swift */,
 				35542141241AA77C0021CE7A /* Assets.xcassets */,
 				35542146241AA77C0021CE7A /* LaunchScreen.storyboard */,
 				35542149241AA77C0021CE7A /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3554213C241AA77B0021CE7A /* AppDelegate.swift in Sources */,
+				35542156241ABBFB0021CE7A /* ImagePicker.swift in Sources */,
 				3554213E241AA77B0021CE7A /* SceneDelegate.swift in Sources */,
 				35542140241AA77B0021CE7A /* ContentView.swift in Sources */,
 			);
